@@ -1,3 +1,9 @@
 *{
-    background-color: black;
+    background-color: white;
+}
+body{
+    background-image: url(../photos/pics/faceless.jpg);
+    background-image: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
 }
